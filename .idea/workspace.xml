@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="460401ca-ce24-4206-8eba-034521f69f26" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-todos/backend/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/runserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-todos/backend/runserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/todos/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-todos/backend/todos/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/todos/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-todos/backend/todos/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/todos/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-todos/backend/todos/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/todos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-todos/backend/todos/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-todos/backend/todos/wsgi.py" beforeDir="false" />
-    </list>
+    <list default="true" id="460401ca-ce24-4206-8eba-034521f69f26" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +43,8 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask-todos/backend/todos/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="108">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -143,7 +135,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="183" />
     <option name="y" value="23" />
     <option name="width" value="995" />
@@ -166,6 +158,12 @@
               <item name="flask_restful" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask_restful" type="462c0819:PsiDirectoryNode" />
               <item name="flask-todos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flask_restful" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask_restful" type="462c0819:PsiDirectoryNode" />
+              <item name="flask-todos" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,15 +233,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="183" y="23" width="995" height="690" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32715008" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32715008" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32715008" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4114671" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2759706" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -666,8 +663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask-todos/backend/todos/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="108">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
