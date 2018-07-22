@@ -17,7 +17,7 @@ class User(db.Model):
     # 创建关系映射，用来反向查找（通过todo对象找todo对应的user对象
     # 一个user可以创建多个todo
     # 使用db.relationship创建 User和Todo模型的关联
-    # 例如：我们可以这样新建一个todo
+    # 例如:这样新建一个todo
     # todo = Todo(text='something')
     # user = User.query.get(1)
     # todo.creator = user   # 创建者 和  所创建的todo的关联

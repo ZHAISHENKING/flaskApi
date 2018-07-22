@@ -4,10 +4,12 @@ from flask_restful import Resource, Api
 app = Flask(__name__)
 api = Api(app)
 
+
 class HelloWorld(Resource):
     def get(self):
         data = {'msg':'Hello'}
         return data 
+
 
 api.add_resource(HelloWorld, '/')
 
